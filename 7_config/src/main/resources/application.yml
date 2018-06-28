@@ -1,0 +1,12 @@
+server:
+  port: 8080
+  servlet:
+    context-path: / #应用上下文访问目录
+spring:
+  banner:
+    image:
+      location: static/images/22.png
+logging:
+  level:
+    root: info
+   # com: debug
